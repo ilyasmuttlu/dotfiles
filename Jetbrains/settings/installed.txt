@@ -1,14 +1,11 @@
 aws.toolkit
-color.scheme.Github farshid Light v2 (rainglow)
-com.blai30.lotus.theme
 com.chesterccw.excelreader
 com.chrisrm.idea.MaterialThemeUI
 com.dt.theme.vs
+com.fernandojimenez.obsidian.theme
 com.intellij.kubernetes
 com.jetbrains.edu
 com.jetbrains.space
 com.mallowigi
-com.thvardhan.gradianto
-com.vermouthx.idea
 izhangzhihao.rainbow.brackets
 ru.adelf.idea.dotenv
