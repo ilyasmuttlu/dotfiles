@@ -4,12 +4,12 @@ add_newline = false
 # Prompt format
 vicmd_symbol = "[V](bold green) "
 format = """
-[┌──────────────────────────────────────────────](fg:#CC59B0)
-[└─>](fg:#CC59B0) """
+[┌──────────────────────────────────────────────](fg:#e30050)
+[└─>](fg:#e30050) """
 
 [username]
-style_user = "fg:#CC99CC"
-style_root = "white"
+style_user = "fg:#fbbe00"
+style_root = "red"
 format = " [$user]($style)[@](bold yellow)"
 disabled = false
 show_always = true
