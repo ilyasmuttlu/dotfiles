@@ -1,0 +1,651 @@
+{
+  "strategy": "default",
+  "matchStrategy": "prefix",
+  "maxNumberOfSuggestions": 5,
+  "maxNumberOfWordsAsPhrase": 3,
+  "minNumberOfCharactersTriggered": 0,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 0,
+  "disableSuggestionsDuringImeOn": false,
+  "insertAfterCompletion": true,
+  "firstCharactersDisableSuggestions": ":/^",
+  "showMatchStrategy": true,
+  "showIndexingStatus": true,
+  "descriptionOnSuggestion": "Short",
+  "selectSuggestionKeys": "Enter",
+  "additionalCycleThroughSuggestionsKeys": "None",
+  "openSourceFileKey": "None",
+  "propagateEsc": false,
+  "enableCurrentFileComplement": true,
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "enableCurrentVaultComplement": false,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": false,
+  "customDictionaryPaths": "https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt",
+  "columnDelimiter": "Tab",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "",
+  "caretLocationSymbolAfterComplement": "",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": false,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "showLogAboutPerformanceInConsole": false,
+  "selectionHistoryTree": {
+    "new": {
+      "new": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1652775699273
+        }
+      }
+    },
+    "JavaScript": {
+      "JavaScript": {
+        "currentFile": {
+          "count": 23,
+          "lastUpdated": 1652874117906
+        }
+      }
+    },
+    "Scripts": {
+      "Scripts": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1652874413716
+        }
+      }
+    },
+    "programs": {
+      "programs": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1652781889535
+        }
+      }
+    },
+    "called": {
+      "called": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1652781951504
+        }
+      }
+    },
+    "engine": {
+      "engine": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1652781986359
+        }
+      }
+    },
+    "Codenames": {
+      "Codenames": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1652782061353
+        }
+      }
+    },
+    "#####": {
+      "#####": {
+        "currentFile": {
+          "count": 8,
+          "lastUpdated": 1652863835965
+        }
+      }
+    },
+    "engines": {
+      "engines": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1652782206213
+        }
+      }
+    },
+    "browser": {
+      "browser": {
+        "currentFile": {
+          "count": 5,
+          "lastUpdated": 1652786632314
+        }
+      }
+    },
+    "instance": {
+      "instance": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1652782546073
+        }
+      }
+    },
+    "in-Browser": {
+      "in-Browser": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1652782928038
+        }
+      }
+    },
+    "page": {
+      "page": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1652782576806
+        }
+      }
+    },
+    "presses": {
+      "presses": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1652782641957
+        }
+      }
+    },
+    "requests": {
+      "requests": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1652782654463
+        }
+      }
+    },
+    "network": {
+      "network": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1652782659366
+        }
+      }
+    },
+    "files": {
+      "files": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1652782677943
+        }
+      }
+    },
+    "user’s": {
+      "user’s": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1652783825564
+        }
+      }
+    },
+    "safety": {
+      "safety": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1652783831786
+        }
+      }
+    },
+    "access": {
+      "access": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1652783907065
+        }
+      }
+    },
+    "site": {
+      "site": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1652784022705
+        }
+      }
+    },
+    "browses": {
+      "browses": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1652784907586
+        }
+      }
+    },
+    "Language": {
+      "Language": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1652786073690
+        }
+      }
+    },
+    "allowing": {
+      "allowing": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1652786215283
+        }
+      }
+    },
+    "supports": {
+      "supports": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1652786312499
+        }
+      }
+    },
+    "developers": {
+      "developers": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1652786324803
+        }
+      }
+    },
+    "typing": {
+      "typing": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1652786395242
+        }
+      }
+    },
+    "language": {
+      "language": {
+        "currentFile": {
+          "count": 5,
+          "lastUpdated": 1652874139952
+        }
+      }
+    },
+    "environment": {
+      "environment": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1652786596049
+        }
+      }
+    },
+    "Developed": {
+      "Developed": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1652786488011
+        }
+      }
+    },
+    "integration": {
+      "integration": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1652786639730
+        }
+      }
+    },
+    "HTML": {
+      "HTML": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1652863775737
+        }
+      }
+    },
+    "CSS": {
+      "CSS": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1652786651458
+        }
+      }
+    },
+    "Solidity": {
+      "Solidity": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1652799595447
+        }
+      }
+    },
+    "Introduction to DNS": {
+      "Introduction to DNS": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1652801052967
+        }
+      }
+    },
+    "blank#Locked%20bootloader": {
+      "blank#Locked%20bootloader": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1652803042352
+        }
+      }
+    },
+    "Capital": {
+      "Capital": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1652809472608
+        }
+      }
+    },
+    "services": {
+      "services": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1652809493025
+        }
+      }
+    },
+    "Apps": {
+      "Apps": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1652809564151
+        }
+      }
+    },
+    "Products": {
+      "Products": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1652809597840
+        }
+      }
+    },
+    "Community": {
+      "Community": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1652809619440
+        }
+      }
+    },
+    "Specification": {
+      "Specification": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1652860813452
+        }
+      }
+    },
+    "proposals": {
+      "proposals": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1652860992847
+        }
+      }
+    },
+    "Reference": {
+      "Reference": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1652861098374
+        }
+      }
+    },
+    "Manual": {
+      "Manual": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1652861258412
+        }
+      }
+    },
+    "microsoft": {
+      "microsoft": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1652861296019
+        }
+      }
+    },
+    "features": {
+      "features": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1652861367890
+        }
+      }
+    },
+    "caniuse": {
+      "caniuse": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1652861493810
+        }
+      }
+    },
+    "function": {
+      "function": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1652861455843
+        }
+      }
+    },
+    "cryptography": {
+      "cryptography": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1652861518947
+        }
+      }
+    },
+    "#feat": {
+      "#feat": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1652861513011
+        }
+      }
+    },
+    "github": {
+      "github": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1652861549969
+        }
+      }
+    },
+    "compat-table": {
+      "compat-table": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1652861575441
+        }
+      }
+    },
+    "support": {
+      "support": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1652861605512
+        }
+      }
+    },
+    "errors": {
+      "errors": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1652862028391
+        }
+      }
+    },
+    "Chrome": {
+      "Chrome": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1652862186214
+        }
+      }
+    },
+    "Javascript": {
+      "Javascript": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1652862252005
+        }
+      }
+    },
+    "Developer": {
+      "Developer": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1652862655144
+        }
+      }
+    },
+    "html": {
+      "html": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1652863327382
+        }
+      }
+    },
+    "body": {
+      "body": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1652863459794
+        }
+      }
+    },
+    "Attributes": {
+      "Attributes": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1652863736346
+        }
+      }
+    },
+    "required": {
+      "required": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1652874154390
+        }
+      }
+    },
+    "attributes": {
+      "attributes": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1652874149480
+        }
+      }
+    },
+    "not": {
+      "not": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1652874152198
+        }
+      }
+    },
+    "inserted": {
+      "inserted": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1652874169687
+        }
+      }
+    },
+    "#ExternalScripts": {
+      "#ExternalScripts": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1652875199591
+        }
+      }
+    },
+    "Ilyasmutlu": {
+      "Ilyasmutlu": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1652875303659
+        }
+      }
+    },
+    "Coding Challenges": {
+      "Coding Challenges": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1652877885446
+        }
+      }
+    },
+    "alert": {
+      "alert": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1652878023884
+        }
+      }
+    },
+    "script": {
+      "script": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1652878018312
+        }
+      }
+    },
+    "Algorithmic Stablecoins Explained": {
+      "Algorithmic Stablecoins Explained": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1652879385250
+        }
+      }
+    },
+    "Stablecoins": {
+      "Stablecoins": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1652884217345
+        }
+      }
+    },
+    "Algorithmic": {
+      "Algorithmic": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1652884214553
+        }
+      }
+    },
+    "gemini": {
+      "gemini": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1652887033594
+        }
+      }
+    },
+    "Intoduction": {
+      "Intoduction": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1652894053646
+        }
+      }
+    },
+    "Fundamentals": {
+      "Fundamentals": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1652894137217
+        }
+      }
+    }
+  }
+}

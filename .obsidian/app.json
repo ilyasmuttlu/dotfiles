@@ -1,0 +1,10 @@
+{
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "newFileLocation": "current",
+  "vimMode": true,
+  "legacyEditor": false,
+  "trashOption": "local",
+  "spellcheck": true,
+  "attachmentFolderPath": "./assets"
+}
